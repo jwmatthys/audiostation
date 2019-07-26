@@ -6,5 +6,5 @@ Do we need a resistor? Yeah, I guess. *shrug*
 
 In ~/.bashrc add:
 ```
-python /home/pi/rpi-playback-station/rpi-button-mp3.py &
+python /home/pi/audiostation/button.py &
 ```
